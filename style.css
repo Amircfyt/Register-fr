@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+    background: rgb(231, 231, 231);
+}
+.tit{
+background: rgb(187, 157, 255);
+width:100%;
+border-bottom-right-radius:100px;
+border-bottom-left-radius:100px;
+}
+.tit h1{
+color: rgb(47, 0, 78);
+font-size:20px;
+padding:12px;
+}
+.sing{
+    background: rgb(187, 157, 255);
+    width:85%;
+    border-radius:12px;
+    padding:12px;
+}
+.sing p{
+text-align:left;
+margin-left:5px;
+color: rgb(47, 0, 78);
+}
+.input-txt{
+width:80%;
+background: rgba(255, 255, 255, 0.178);
+border:1px solid #FFF;
+outline:none;
+border-radius:100px;
+height:35px;
+margin-top:-15px;
+}
+.btn{
+    width:40%;
+    background: rgba(255, 255, 255, 0.178);
+    border:1px solid #FFF;
+    outline:none;
+    border-radius:100px;
+    height:35px;
+    margin-top:20px;
+}
